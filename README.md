@@ -6,6 +6,4 @@ The analysis collects data on various player elements including demographics tha
 
 ### Files
 
-xxx
-
-to be filled in . . .
+names of files
